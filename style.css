@@ -1,0 +1,17 @@
+h1 {
+    color: darkolivegreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: olive;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+p {
+    font-size: 20px;
+    text-align: justify;
+}
